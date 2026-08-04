@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I enjoy turning complex business problems into clean, intuitive web applications and I'm always exploring new technologies to improve developer experience.**
 
-- 👨‍💻 All of my projects are available at **[https://peerlist.io/sonamittal]https://peerlist.io/sonamittal)**
+- 👨‍💻 All of my projects are available at **https://peerlist.io/sonamittal**
 
 - 📝 I regularly write articles on **[https://peerlist.io/sonamittal/posts](https://peerlist.io/sonamittal/posts)**
 
